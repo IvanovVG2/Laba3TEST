@@ -9,6 +9,8 @@ using namespace std;
 
 // GitHub
 
+// Test for the new branch of GitHub
+
 class Honda // Создание класса Honda
 {
 public:
