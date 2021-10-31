@@ -7,6 +7,8 @@
 
 using namespace std;
 
+// GitHub
+
 class Honda // Создание класса Honda
 {
 public:
